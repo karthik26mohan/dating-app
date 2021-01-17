@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0EZyTVu99iGI6ZCuC2+Q0aCA/ALl5NH5vHgjsExKGrx7QwWNmp9eDdPtplBgQ72jMhbMvyDFB/k7wj46S+GDAw==",
+  "dgSpecHash": "5I/adphMvKvHe7USjZlxpbwXdJ8UAp+8jOt+oDOZyrD+YUUW/d91ZFlE63iV3O4COl+l4KD2frPj41Bt8Ir/hA==",
   "success": true,
   "projectFilePath": "/Users/karthikmohan/Documents/projects/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/karthikmohan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/karthikmohan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.2/microsoft.aspnetcore.authentication.jwtbearer.5.0.2.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.data.sqlite.core/5.0.2/microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -28,6 +29,8 @@
     "/Users/karthikmohan/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.8.0/microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.identitymodel.logging/6.8.0/microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "/Users/karthikmohan/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "/Users/karthikmohan/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.identitymodel.tokens/6.8.0/microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
