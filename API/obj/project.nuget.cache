@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xO52QK6P8B+9QQqNCAwTi5Qr1ataH+OssTaxCDozJw9f7hJa/COBt7h64lRpNQ/Wz1gQA8AQSGlj5s9fZUddKg==",
+  "dgSpecHash": "M1m87Cr1PjxjsxUnxkywmrfAlkCFY5OMgeM4Dr3Banahegob3/fKGZ7+bLQPZ5q4IE1TC+wcgU6LSQaGpRieow==",
   "success": true,
   "projectFilePath": "/Users/karthikmohan/Documents/projects/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/karthikmohan/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "/Users/karthikmohan/.nuget/packages/cloudinarydotnet/1.14.0/cloudinarydotnet.1.14.0.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.2/microsoft.aspnetcore.authentication.jwtbearer.5.0.2.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -35,6 +36,7 @@
     "/Users/karthikmohan/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.identitymodel.tokens/6.8.0/microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/karthikmohan/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/Users/karthikmohan/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
